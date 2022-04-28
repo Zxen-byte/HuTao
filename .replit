@@ -1,0 +1,2 @@
+language = "typescript"
+run = "python main.py"
