@@ -1,2 +1,2 @@
-language = "typescript"
+language = "TypeScript"
 run = "python main.py"
